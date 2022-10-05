@@ -5,3 +5,4 @@ type OscarProps = {
 export default function Oscar(props: OscarProps) {
   return <h2>{props.children}</h2>;
 }
+ 
